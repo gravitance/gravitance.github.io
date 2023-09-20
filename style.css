@@ -1,0 +1,31 @@
+/* 
+css created by gravitance.
+updated: 21 september 2023.
+*/
+
+h1 {
+    font-family: Georgia;
+    font-size: 250%;
+    color:darkslategrey;
+}
+
+body {
+    font-family: Helvetica;
+    font-size: 11pt;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+em {
+    color:cadetblue;
+}
+
+div {
+    padding: 20px 20px 20px 20px;
+}
+
+img.circle-images {
+    border-radius: 50%;
+}
