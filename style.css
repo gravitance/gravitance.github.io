@@ -55,6 +55,10 @@ div {
     padding: 20px 20px 20px 20px;
 }
 
+img{
+    max-width:350px;
+}
+
 img.circle-images {
     border-radius: 50%;
 }
